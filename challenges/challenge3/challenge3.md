@@ -28,7 +28,7 @@ Here you can find an exmaple of the `.env` file completed:
 
 In this step, you will interact with the models using Python and APIs as you did using the Azure AI Studio Playground.
 For this challenge we will use the OpenAI python library to interact with the models.
-You will do the some approach using both OpenAI GPT4o and Phi-3-medium-128k-instruct models.
+You will do the some approach using both OpenAI GPT4o and Phi-4 models.
 
 Try to ask the same set of questions you provided in the first part of the challenge and compare the answers.
 
