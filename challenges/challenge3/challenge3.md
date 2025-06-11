@@ -8,7 +8,7 @@ In this challenge, you will interact with a Jupyter Notebook and interact with t
 
 - Open the Jupyter Notebook provided.
 - Follow the instructions in the notebook to complete the challenge.
-    - Play with the vanilla models.
+    - Play with the vanilla models (OpenAI GPT4o and Phi-4)
     - Add some of the data provided in the dataset and perform some queries to the models.
 
 Here you have the high-level steps to complete:
